@@ -1,9 +1,9 @@
 export const  QuizData=[
    {
        id:0,
-       question: "what is the capital of Usa?",
+       question: "What is the capital of China?",
        options:["Russia","Washington DC","Delhi","Beijing"],
-       answer:"Washington DC"
+       answer:"Beijing"
    },
    {
     id:1,

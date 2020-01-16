@@ -5,26 +5,27 @@
     background-color: dodgerblue;
 }
 .options{
-    padding:8px;
+    padding:10px;
     border:2px solid black;
-    width:600px;
+    width:950px;
     display:flex;
     flex-flow: column nowrap;
     justify-content: space-between;
     font-weight: bold;
    align-content: center;
+   background-color: rgba(170, 230, 235, 0.301);
     
     text-align: center;
     height:100%;
 
 }
-button{
+/* button{
     padding:10px;
     border:1 px solid grey;
     height:30px;
     width:120px;
     text-align :center;
-}
+} */
 .questions{
     font-weight: bold;
 }
